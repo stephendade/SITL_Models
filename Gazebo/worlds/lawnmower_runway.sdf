@@ -41,7 +41,7 @@
     </light>
 
     <include>
-      <pose degrees="true">-29 545 0 0 0 363</pose>
+      <pose degrees="true">-29 545 0 0 0 3</pose>
       <uri>model://runway</uri>
     </include>
 
